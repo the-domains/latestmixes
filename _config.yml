@@ -1,0 +1,28 @@
+name: LatestMixes
+favicon: null
+layout_spectrum: 0.44605239131487906
+typography_spectrum: 0.7034529726952314
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1827949231956154
+  lightness: 0.2270719949156046
+  saturation: 0.22872684872709215
+  rhythmicContrast: 0.35403667064383626
+purpose: []
